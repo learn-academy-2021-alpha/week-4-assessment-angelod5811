@@ -48,7 +48,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: In Ruby, object methods are public by default, while data is private. To access and modify data, we use the attr_reader and attr_writer . attr_accessor is a shortcut method when you need both attr_reader and attr_writer .
 
 
 
